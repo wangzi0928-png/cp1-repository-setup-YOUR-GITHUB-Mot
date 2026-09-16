@@ -1,4 +1,4 @@
 # Classmate fight (game project)
 a small JS game, use to create this game
-run this website game in vscode
-go to terminal if you want to do anychange
+run this website game using chrome
+use nodejs if you want to do anychange
